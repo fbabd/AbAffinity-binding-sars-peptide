@@ -1,2 +1,2 @@
-# llm-ab-binding-sars-peptide
+# AbAffinity-ab-binding-sars-peptide
 
